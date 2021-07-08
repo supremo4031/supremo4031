@@ -3,5 +3,5 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on android development with kotlin 
-- 🌱 I’m currently learning kotlin
+- 🔭 I’m currently working on Ecommerce app using React, Nodejs, Express and MongoDB
+- 🌱 I’m currently learning javascript
