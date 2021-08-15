@@ -2,7 +2,9 @@
 ## Arpan Layek
 
 ### Hi there 👋
-#### I am a Fullstack Web as well as Android developer. I keep learning about various technologies on daily basis and have a huge interest in backend development. I enjoy developing user-friendly fullstack application in a organized manner with well maintained backend server and boosting perfomance by optimized code.
+ I am a Fullstack Web as well as Android developer. I keep learning about various technologies on daily basis and have a huge interest in backend development. I enjoy developing user-friendly fullstack application in a organized manner with well maintained backend server and boosting perfomance by optimized code.
+
+---
 
 ### 📫 How to reach me:
 
