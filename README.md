@@ -42,7 +42,7 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=supremo4031&show_icons=true&hide=commits&hide_border=true&count_private=true&show_owner=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=supremo4031&show_icons=true&hide_border=true&count_private=true&show_owner=true&theme=tokyonight)
 
 ---
 
