@@ -2,7 +2,7 @@
 ## Arpan Layek
 
 ### Hi there 👋
- I am a Fullstack developer with 2+ years of experience in professional software development
+ I am a Fullstack developer with 2+ years of experience in professional software development. Currently, I am learning Golang.
 
 ---
 
